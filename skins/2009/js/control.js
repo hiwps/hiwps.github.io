@@ -11,10 +11,10 @@ function getContg(){
 	if(window.item_link && window.item_link.length>0){
 		var item_link_str = [], link_len = item_link.length
 		var idx = Math.floor((Math.random()*link_len))
-		item_link_str.push('<li class="listtj listgc">'+item_link[idx]+'<i class="ac">广告</i></li>')
+		item_link_str.push('<li class="listtj listgc">'+item_link[idx]+'<i class="ac">鐧界緤</i></li>')
 		item_link.splice(idx, 1)
 		for(var i=0;i<item_link.length;i++){
-			item_link_str.push('<li class="listtj listgc">'+item_link[i]+'<i class="ac">广告</i></li>')
+			item_link_str.push('<li class="listtj listgc">'+item_link[i]+'<i class="ac">骞垮憡</i></li>')
 		}
 		$(".list").eq(0).find('ul').prepend(item_link_str.join(''))
 	}
@@ -22,7 +22,7 @@ function getContg(){
 	if(window.item_ad && item_ad.length>0){	
 		var item_ad1_str = []
 		for(var i=0;i<item_ad.length;i++){
-			item_ad1_str.push('<li class="listgc">'+item_ad[i]+'<i class="ac">广告</i></li>')
+			item_ad1_str.push('<li class="listgc">'+item_ad[i]+'<i class="ac">閭</i></li>')
 		}
 		$(".list").eq(0).before("<div class='list listtg listtj'><ul>"+item_ad1_str.join('')+"</ul></div>")	
 	}

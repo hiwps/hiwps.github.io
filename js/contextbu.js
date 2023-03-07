@@ -4,59 +4,59 @@ var img_ad=[],item_ad = [],item_link = [],fxlfcn=[],fxrfcn=[],contact=[]
 
 
 
-//------Í¼Æ¬ºá·ù
+//------å›¾ç‰‡æ¨ªå¹…
 
 
-//	img_ad.push('<a href="https://www.imby.cn" target="_blank" rel="nofollow"><img src="https://www.imby.cn/" /></a>')
-//------½áÊø
-
-
-
-
-
-//------ÁĞ±íÎÄ×Ö
-
-
-	item_ad.push('<a href="/" target="_blank" rel="nofollow" style="color:#000">ÁªÏµÓÊÏä£ºwanxun@111.com</a>')
-//------½áÊø
+//	img_ad.push('<a href="https://www.imby.cn" target="_blank" rel="nofollow"><img src="http://www.imby.cn" /></a>')
+//------ç»“æŸ
 
 
 
 
 
-//------ÍøÖ·ÄÚÎÄ×Ö
+//------åˆ—è¡¨æ–‡å­—
+
+
+	item_ad.push('<a href="https://www.111.com" target="_blank" rel="nofollow" style="color:#000">è”ç³»é‚®ç®±ï¼šwanxun@111.com</a>')
+//------ç»“æŸ
+
+
+
+
+
+//------ç½‘å€å†…æ–‡å­—
+	item_link.push('<a href="https://www.imby.cn" style="" target="_blank" rel="nofollow">https://www.imby.cn</a>')
+
 //	item_link.push('<a href="https://www.imby.cn" style="" target="_blank" rel="nofollow">https://www.imby.cn</a>')
-
-//	item_link.push('<a href="https://www.wdah.cn" style="" target="_blank" rel="nofollow">https://www.wdah.cn</a>')
-//------½áÊø
+//------ç»“æŸ
 
 
 
 
 
-//------×ó²à¸¡¶¯
-//	fxlfcn.push('<a href="/" target="_blank" rel="nofollow"><img src="https://www.imby.cn/" /></a>')
+//------å·¦ä¾§æµ®åŠ¨
+//	fxlfcn.push('<a href="/" target="_blank" rel="nofollow"><img src="http://www.imby.cn" /></a>')
 
-//	fxlfcn.push('<a href="/" target="_blank" rel="nofollow"><img src="https://www.imby.cn/" /></a>')
-//------½áÊø
-
-
-
-
-
-//------ÓÒ²à¸¡¶¯
-//	fxrfcn.push('<a href="/" target="_blank" rel="nofollow"><img src="https://www.imby.cn/" /></a>')
-
-//	fxrfcn.push('<a href="/" target="_blank" rel="nofollow"><img src="https://www.imby.cn/" /></a>')
-//------½áÊø
+//	fxlfcn.push('<a href="/" target="_blank" rel="nofollow"><img src="http://www.imby.cn" /></a>')
+//------ç»“æŸ
 
 
 
 
 
-//------ÁªÏµ·½Ê½
+//------å³ä¾§æµ®åŠ¨
+//	fxrfcn.push('<a href="/" target="_blank" rel="nofollow"><img src="http://www.imby.cn" /></a>')
+
+//	fxrfcn.push('<a href="/" target="_blank" rel="nofollow"><img src="http://www.imby.cn" /></a>')
+//------ç»“æŸ
+
+
+
+
+
+//------è”ç³»æ–¹å¼
 //	contact.push('<div class="contact"></div>')
-//------½áÊø
+//------ç»“æŸ
 
 
 
